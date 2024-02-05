@@ -1,7 +1,51 @@
 Kaggle's Titanic Challenge
 ==============================
 
-Kaggle's Titanic Challenge
+This project addresses the Titanic challenge on the Kaggle platform, using the Cookiecutter Data Science Project template. The solution was developed and submitted on the plaform.
+
+<i>Link: https://www.kaggle.com/competitions/titanic/</i>
+
+### Key Steps:
+
+* Problem Understanding:
+
+The goal is to predict whether a passenger survived or not in the Titanic disaster.
+
+* Project Setup:
+
+Utilization of the Cookiecutter Data Science Project template to structure the project.
+
+<i>Template: https://drivendata.github.io/cookiecutter-data-science/</i>
+
+* Exploratory Data Analysis (EDA):
+
+Data exploration to identify patterns, distributions, and correlations.
+Visualization of data through graphs and plots.
+Handling missing data and outliers.
+
+<i>Notebook: [1.0-exploration-reports.ipynb](https://github.com/marciosimoes/titanic-kaggle/blob/master/notebooks/1.0-exploration-reports.ipynb)</i>
+<br><i>Reports: [exploring-initial.html](https://projects.marciosimoes.com/titanic-kaggle/reports/exploring-initial) and [exploring-survives.html](https://projects.marciosimoes.com/titanic-kaggle/reports/exploring-survives)</i>
+
+* Data Preprocessing:
+
+Treatment of missing values and outliers.
+Encoding of categorical variables.
+Feature engineering, if necessary.
+
+<i>Notebook: [2.0-cleaning-and-transformation.ipynb](https://github.com/marciosimoes/titanic-kaggle/blob/master/notebooks/2.0-cleaning-and-transformation.ipynb)</i>
+
+* Modeling:
+
+Selection of machine learning algorithms (e.g., Linear Regression, Logistic Regression, SVM).
+Training and tuning models using the training set.
+
+<i>Notebook: [3.0-model-tests.ipynb](https://github.com/marciosimoes/titanic-kaggle/blob/master/notebooks/3.0-model-tests.ipynb)</i>
+
+* Evaluation and Submission:
+
+Model evaluation with the test set.
+Submission of the result on Kaggle, achieving a maximum score of <b>0.76794</b>.
+
 
 Project Organization
 ------------
