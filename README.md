@@ -1,7 +1,7 @@
 Kaggle's Titanic Challenge
 ==============================
 
-This project addresses the Titanic challenge on the Kaggle platform, using the Cookiecutter Data Science Project template. The solution was developed and submitted on the plaform.
+This project addresses the Titanic challenge on the Kaggle platform, using the Cookiecutter Data Science Project template. The solution was developed and submitted on the platform.
 
 <i>Link: https://www.kaggle.com/competitions/titanic/</i>
 
